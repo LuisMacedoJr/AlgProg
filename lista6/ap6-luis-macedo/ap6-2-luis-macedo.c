@@ -1,10 +1,10 @@
 //
 // Aluno: Luis Henrique Macedo Jr
-// Atividade Pratica 6 - exercicio 2
+// Atividade Pratica 6
 //
-// Entrada: string qualquer
-// Saida: imprime o caractere mais repetido e a frequencia com a qual ele apareceu
-//
+// Entrada: string que contem um endereco
+// Saida: imprime o numero de algarismos na string e a string modificada
+// com os algarismos deslocados em um valor
 
 #include <stdio.h>
 

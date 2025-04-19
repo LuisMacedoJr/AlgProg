@@ -1,6 +1,6 @@
 //
 // Aluno: Luis Henrique Macedo Jr
-// Atividade Pratica 6 - exercicio 1
+// Atividade Pratica 6
 //
 // Entrada: string que contem um endereco
 // Saida: imprime o numero de algarismos na string e a string modificada
