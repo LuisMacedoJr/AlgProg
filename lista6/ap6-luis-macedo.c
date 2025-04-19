@@ -47,7 +47,7 @@ int main(){
 
     //imprime os resultados
     printf("Numero de algarismos na string: %d\n", contadorDeAlgarismos);
-    printf("String modificada: %s", endereco);
+    printf("String modificada: %s\n", endereco);
 
     return 0;
 
